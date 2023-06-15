@@ -1,4 +1,4 @@
-# how to use?
+# how to use
 
 ```
 chmod +x makegif.sh
